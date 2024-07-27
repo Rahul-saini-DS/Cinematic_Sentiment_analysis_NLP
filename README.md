@@ -1,4 +1,4 @@
-Cinematic Sentiments: Analyzing Movie Reviews Using NLP
+##Cinematic Sentiments: Analyzing Movie Reviews Using NLP
 Overview
 Cinematic Sentiments is a Natural Language Processing (NLP) project focused on analyzing movie reviews to determine sentiment. The project leverages Python, machine learning, and statistical methods to preprocess text data and extract features, ultimately optimizing the performance of sentiment classification models.
 
